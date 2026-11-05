@@ -1,1 +1,3 @@
-<img width="720" height="720" alt="videoframe_13681" src="https://github.com/user-attachments/assets/bc69ba9e-c646-47a3-aa4b-af90187e4793" />
+<h1> Simple hero section </h1>
+<img width="1810" height="848" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/3b8a2642-1f29-4283-8201-a11ce9d8ada9" />
+
